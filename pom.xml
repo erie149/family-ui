@@ -4,9 +4,8 @@
   <groupId>erie.family</groupId>
   <artifactId>ui</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>ui Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <version>1.0.0-SNAPSHOT</version>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -15,7 +14,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>ui</finalName>
-  </build>
+  
 </project>
